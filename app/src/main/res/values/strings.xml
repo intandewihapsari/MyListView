@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">Nama Makanan Indonesia</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Nasi Goreng</item>
+        <item>Mie Ayam</item>
+        <item>Soto</item>
+        <item>Sate</item>
+        <item>Rendang</item>
+        <item>Bakso</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng dan ditambah kecap manis, bawang dan bumbu-bumbu lainnya seperti telur, ayam dan udang</item>
+        <item>Mie ayam adalah masakan yang terbuat dari mie kuning direbus kemudian ditaburi saus kecap khusus beserta daging ayam dan sayuran.Mie berasal dari Tiongkok, tetapi mie ayam berada di Indonesia.</item>
+        <item>Soto adalah makanan khas Indonesia seperti sop yang terbuat dari kaldu daging dan sayuran. Daging yang paling sering digunakan adalah daging sapi, ayam, babi dan kambing.</item>
+        <item>Sate adalah makanan yang terbuat dari daging yang dipotong kecil-kecil dan ditusuk sedemikian rupa dengan tusukan lidi tulang daun kelapa atau bambu kemudian dipanggang menggunakan bara arang kayu.</item>
+        <item>Rendang adalah masakan daging yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan.</item>
+        <item>Bakso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka dan campuran daging ayam, ikan, atau udang</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/mie_ayam</item>
+        <item>@drawable/soto</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/bakso</item>
+    </array>
+</resources>
